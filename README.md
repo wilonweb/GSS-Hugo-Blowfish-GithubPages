@@ -1,6 +1,6 @@
 # 🚀 Pipline GSS : Hugo + Blowfish + GitHub Pages
 
-Ce dépôt est un **template prêt à l’emploi** pour généré un site statique avec [Hugo](https://gohugo.io/) et le thème [Blowfish](https://blowfish.page/), automatiquement déployé sur **GitHub Pages**.
+Génération de site static HUGO de google avec le Theme Blowfish de [Nuno Coracao](https://github.com/nunocoracao/blowfish)Ce dépôt est un **template prêt à l’emploi** pour généré un site statique avec [Hugo](https://gohugo.io/) et le thème [Blowfish](https://blowfish.page/), automatiquement déployé sur **GitHub Pages**.
 
 ---
 
